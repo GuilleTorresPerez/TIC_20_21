@@ -5,6 +5,8 @@ def cube():
 
     for cont in range(y):
         print "* "*x
-
+        
+    input("press enter to exit")
+    
 cube()
         
