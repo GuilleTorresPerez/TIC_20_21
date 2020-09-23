@@ -4,4 +4,6 @@ def multiplier():
     for cont in range(11):
         print cont, "*", number,"= ", cont*number
 
+    input("press enter to exit")
+
 multiplier()
