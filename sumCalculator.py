@@ -4,4 +4,6 @@ def sumCalculator():
     result=X2+X1
     print"The result is ", result
 
+    input("press enter to exit")
+
 sumCalculator()
