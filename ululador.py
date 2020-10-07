@@ -12,7 +12,7 @@ def ululador():
     print "La longitud de la palabra es ",longitudPalabra
 
     for cont in range(0,longitudPalabra):
-        if (palabra[cont] == a or palabra[cont] == e or palabra[cont] == i or palabra[cont] == o or palabra[cont] == u):
+        if (palabra[cont] == a or palabra[cont] == e or palabra[cont] == i or palabra[cont] == o):
             print 'u'
         else:
             print palabra[cont]
